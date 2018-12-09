@@ -26,6 +26,6 @@ Then I ran:
 
     JEKYLL_ENV=production bundle exec jekyll build
 
-I copied `_site` to my document root. Voila!
+I copied `./_site` to my document root. Voila!
 
 Eventually I will add content to this site.

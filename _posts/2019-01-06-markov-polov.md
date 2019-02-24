@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Markov Polov and Markov Chains"
-date:   2018-12-09 15:12:00 -0600
-categories: [twitter, markov chains] 
+date:   2019-01-06 14:00:00 -0600
+categories: [twitter, markov] 
 ---
 
 # Markov Polov

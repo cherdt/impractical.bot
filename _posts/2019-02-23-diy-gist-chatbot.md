@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Gist Chatbots"
-date:   2019-01-06 14:00:00 -0600
+date:   2019-02-23 20:56:00 -0600
 categories: [chatbots, bots, nltk] 
 ---
 
